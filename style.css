@@ -121,7 +121,7 @@ h2 {
 }
 
 #heading{
-    text-decoration-line: underline;
+    text-decoration: purple wavy underline;
 }
 .left img {
     border: 3px solid rgba( 255, 247, 209, 0.9);
